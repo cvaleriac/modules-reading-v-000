@@ -1,3 +1,3 @@
-module Dance
+class Dance
   extend MetaDancing
 end
